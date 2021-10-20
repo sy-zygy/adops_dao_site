@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.b-adops-divider {
+  height: 3rem;
+  background-color: rgba(0, 0, 0, .1);
+  border: solid rgba(0, 0, 0, .15);
+  border-width: 1px 0;
+  box-shadow: inset 0 .5em 1.5em rgba(0, 0, 0, .1), inset 0 .125em .5em rgba(0, 0, 0, .15);
+}
+
+.adopshero {
+	background-image: url("../imgs/pexels-adrien-olichon-2387793.jpg");
+	height: 100vh;
+}
+
+@media (min-width: 992px) {
+  .rounded-lg-3 { border-radius: .3rem; }
+}
+

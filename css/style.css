@@ -19,7 +19,7 @@ p {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 12%;
+  width: 100px;
 }
 
 .sidenav-trigger {
